@@ -12,5 +12,6 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "twitter-api-v2": "^1.12.8"
-  }
+  },
+  "engines": {"node":"18.x"}
 }
