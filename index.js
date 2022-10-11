@@ -10,6 +10,6 @@ const tweet = () => {
     } catch (e) {
       console.log(e);
     }
-  }, 60 * 1000);
+  }, 60 * 60 * 1000);
 };
 tweet();
